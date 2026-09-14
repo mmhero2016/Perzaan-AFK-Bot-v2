@@ -8,7 +8,7 @@
   "server": {
     "ip": "crossplay-Lt3k.aternos.me",
     "port": 52890,
-    "version": "1.21.1"
+    "version": "2.26"
   },
   "position": {
     "enabled": true,
